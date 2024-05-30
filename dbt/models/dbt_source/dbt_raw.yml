@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: dbt_raw
+    loader: none
+
+    tables:
+      - name: AFRICA
+      - name: AMERICA
+      - name: ASIA
+      - name: ATLANTIC
+      - name: AUSTRALIA
+      - name: EUROPE
+      - name: INDIAN
+      - name: PACIFIC

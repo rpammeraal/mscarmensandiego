@@ -1,0 +1,14 @@
+data_set,field,data_type
+sighting,date_witness,DATE
+sighting,date_agent,DATE
+sighting,witness,VARCHAR
+sighting,agent,VARCHAR
+sighting,latitude,FLOAT
+sighting,longitude,FLOAT
+sighting,city,VARCHAR
+sighting,country,VARCHAR
+sighting,city_agent,VARCHAR
+sighting,has_weapon,BOOLEAN
+sighting,has_hat,BOOLEAN
+sighting,has_jacket,BOOLEAN
+sighting,behavior,VARCHAR
